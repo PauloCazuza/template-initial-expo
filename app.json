@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "sg-cargas",
-    "slug": "sg-cargas",
+    "name": "template",
+    "slug": "template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
